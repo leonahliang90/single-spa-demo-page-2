@@ -1,5 +1,7 @@
 {
   "name": "@leon/single-spa-demo-page-2",
+  "license": "MIT",
+  "version": "0.0.1",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
